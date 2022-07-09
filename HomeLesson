@@ -1,0 +1,10 @@
+int maxHealth;
+float speed;
+int damageFire;
+bool isGround;
+int goldMoney;
+int silverMoney;
+float damageEnemy1;
+string firstName;
+string userName;
+GameObject player;
